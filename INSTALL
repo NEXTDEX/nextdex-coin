@@ -1,0 +1,9 @@
+Building NEXTDEX
+
+See doc/readme-qt.rst for instructions on building NEXTDEX-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NEXTDEX.
+
+See doc/build-*.txt for instructions on building nextdexd,
+the intended-for-services, no-graphical-interface, reference
+implementation of NEXTDEX.
